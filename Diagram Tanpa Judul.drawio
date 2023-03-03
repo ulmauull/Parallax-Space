@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T10:10:13.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="39pY7uXrnTIa4n7SSCUK" type="github"><diagram name="Halaman-1" id="oWekffgZvSgCWLMu94GB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T10:40:54.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DgLHtrOkrJePMMojrXv8" version="21.0.2" type="github">
+  <diagram name="Halaman-1" id="oWekffgZvSgCWLMu94GB">
+    <mxGraphModel dx="978" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM ACCOUNTING &amp;amp; FINANCIAL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM DIV INDENT (JQ)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="559" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM DIV ONLINE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM HC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM IMPORTASI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM IT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM LEGAL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM MCC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-gJpLi-ymaC0FWQ4TXYE-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TEAM MCC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2800" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
